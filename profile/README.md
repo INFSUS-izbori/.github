@@ -21,7 +21,7 @@ Our projects leverage a modern technology stack:
 
 -   **Frontend (WebApp):** React, Tailwind CSS, JavaScript
 -   **Backend (WebAPI):** Express.js (Node.js), JavaScript
--   **Database:** Sqlite
+-   **Database:** SQLite
 
 ## Using WebApp and WebAPI Together
 
