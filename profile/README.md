@@ -19,10 +19,9 @@
 
 Our projects leverage a modern technology stack:
 
--   **Frontend (WebApp):** React, Tailwind CSS, JavaScript/TypeScript
--   **Backend (WebAPI):** ASP.NET Core, C#, Entity Framework Core
--   **Database:** PostgreSQL (or your preferred database)
--   **DevOps:** Docker, GitHub Actions
+-   **Frontend (WebApp):** React, Tailwind CSS, JavaScript
+-   **Backend (WebAPI):** Express.js (Node.js), JavaScript
+-   **Database:** Sqlite
 
 ## Using WebApp and WebAPI Together
 
